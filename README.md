@@ -1,6 +1,6 @@
 # Wallpaper
 MAD Lab
-kotlin code here
+kotlin code here not for production
 ____________
 package com.example.wallpaper<br>
 import android.graphics.Bitmap<br>
